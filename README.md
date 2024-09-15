@@ -2,9 +2,6 @@
 
 - **Subject** - Computer Networks
 - **Semester** - Spring 2024
-- **Team Members**
-  - B21CS037 - Kashvi Jain
-  - B21CS015 - Arun Raghav S
 
 ## Code Description
 
